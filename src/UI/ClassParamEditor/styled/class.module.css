@@ -1,0 +1,18 @@
+.block {
+  width: 30%;
+  background: #ad9999;
+  padding: 20px;
+  flex-direction: column;
+  display: flex;
+  gap: 20px;
+}
+
+.block label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.block input {
+  width: 100%;
+}
